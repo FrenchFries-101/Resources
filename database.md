@@ -8,3 +8,5 @@ zxN8TNNP4Ghf4Ksb
 2026/03/10 | Create t_cambridge_test main table | Completed | Includes fields such as test_id, test_name, create_time; set auto-increment primary key
 
 2026/03/11 | Create t_cambridge_section detail table | Completed | Includes fields such as section_id, test_id, audio/image path, answer JSON, and foreign key constraints
+
+2026/03/11 | Configure table association relationship | Completed | section.test_id is associated with test.test_id, supporting cascade update/delete
