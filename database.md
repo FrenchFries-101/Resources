@@ -10,3 +10,6 @@ zxN8TNNP4Ghf4Ksb
 2026/03/11 | Create t_cambridge_section detail table | Completed | Includes fields such as section_id, test_id, audio/image path, answer JSON, and foreign key constraints
 
 2026/03/11 | Configure table association relationship | Completed | section.test_id is associated with test.test_id, supporting cascade update/delete
+
+2026/03/12 | Import Test1 basic data | Completed | Entered audio, images, titles, and standard answer JSON for 4 sections
+
