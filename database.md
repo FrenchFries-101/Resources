@@ -14,3 +14,7 @@ zxN8TNNP4Ghf4Ksb
 2026/03/12 | Import Test1 basic data | Completed | Entered audio, images, titles, and standard answer JSON for 4 sections
 
 2026/03/13 | Server audio path configuration | Completed | Configured static resource access for port 7777 and generated playable URLs
+
+2026/03/14 | Batch generate initial data for Test2~Test4 | Completed | Generated audio/image paths according to rules; set name and answers to null
+
+2026/03/14 | Write batch insert SQL scripts | Completed | Adapted to table structure; section_no uses numeric format; null values are uniformly set to 'null'
