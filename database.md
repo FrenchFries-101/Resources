@@ -18,3 +18,7 @@ zxN8TNNP4Ghf4Ksb
 2026/03/14 | Batch generate initial data for Test2~Test4 | Completed | Generated audio/image paths according to rules; set name and answers to null
 
 2026/03/14 | Write batch insert SQL scripts | Completed | Adapted to table structure; section_no uses numeric format; null values are uniformly set to 'null'
+
+2026/03/16 | Create multi-table join view | Completed | Established section_view to associate test paper and section tables for unified query
+
+2026/03/16 | Database structure verification and optimization | Completed | Verified unique constraints, foreign keys, and field lengths to ensure data integrity
