@@ -40,3 +40,5 @@ zxN8TNNP4Ghf4Ksb
 2026/03/26	Upload static resources to server. Upload audio and image files to server port 7777 directory; test resource access
 
 2026/03/27	Import database to remote server. Execute SQL script on server; configure foreign keys and cascade rules
+
+2026/03/30  Add tables to support the group function.
