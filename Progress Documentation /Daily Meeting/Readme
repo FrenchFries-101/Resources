@@ -1,6 +1,58 @@
-3.30: Monday of Week 5. We held 10 minutes meeting for improving the structure of Github. According to the feedback from Professor Kaveh, we need to add more testings and issues on github.
-In addition, the kanban should be set as public.
-3.31: We learned how to use github professionally and we started to make a plan for this sprint: Three new functionalities have been added to the sprint backlog.
-4.1: Adjourned because today has no class
-4.2: 10 minutes stand-up meeting, discussing what's the progress of each functionality and the plan of tomorrow's presentation.
-4.3
+📅 Week 3：Sprint 1
+Mon, Mar 16
+Held Sprint 1 Retrospective and Planning, confirmed team task assignments across all 6 Epics, and began development on US-01 (Register) and US-23 (Main Navigation layout); no blockers.
+
+Tue, Mar 17
+US-01 (Register) and US-02 (Login) completed with authentication logic; US-06 (Vocabulary list) and US-11 (Listening audio player) UI scaffolding started in parallel; no blockers.
+
+Wed, Mar 18
+US-03 (Logout), US-04 (Password Recovery), and US-05 (Concurrent Login Protection) implemented; US-07 (Word definition + example) and US-08 (Admin vocabulary) content integrated into Vocabulary module; no blockers.
+
+Thu, Mar 19
+US-09 (Vocabulary self-test), US-10 (Word mastery tracking), US-12 (Lecture recordings), US-13 (Listening comprehension questions), and US-14 (Answer explanations) all completed; began Speaking module development; no blockers.
+
+Fri, Mar 20
+US-15 (Speaking prompts), US-16 (Microphone recording), US-17 (Keyword scoring + feedback), and US-18 (Replay recordings) implemented; Epic 4 Speaking module fully functional; minor microphone permission issue on Android identified, to be resolved next week.
+
+📅 Week 4 ：Sprint 2
+Mon, Mar 23
+Microphone permission issue resolved; US-19 (Support section layout), US-20 (Written guides), US-21 (Video tutorials), and US-22 (Topic categorisation) completed; Epic 5 Support section fully delivered; no blockers.
+
+Tue, Mar 24
+US-24 (Forum browse) and US-25 (Senior student posting) implemented; full cross-module integration testing conducted, UI inconsistencies fixed, and all 25 User Stories across 6 Epics confirmed as done; no blockers.
+Meet the client for the first time.
+
+Sprint 3 begins:
+Thu, Mar 27
+Kicked off Sprint 2 standup; US-51 (Virtual Pet growth logic) and US-53 (Pet-themed visual style) implementation started; plan to complete pet core system and begin skin-switching feature tomorrow; no blockers.
+
+Fri, Mar 28
+US-51 pet growth system completed and integrated with user activity data; US-52 (Pet skin unlock & switch) UI built with placeholder skins; US-53 theme applied globally across modules; plan to begin Epic 18 Wordle mini-game next week; no blockers.
+
+📅 Week 5: Sprint 3
+Mon, Mar 31
+US-54 (Wordle game using vocabulary word list) core game logic implemented with letter feedback; US-55 (Earn coins from Wordle) logic drafted but reward calculation not yet connected to the global coin system; blocker: coin system architecture not finalised, causing integration conflicts between Wordle and Epic 19 — team agreed to define a unified reward interface before proceeding.
+
+Tue, Apr 1
+Coin system interface agreed upon and documented; US-56 (Cross-activity coin earning) and US-58 (Clear coin-earning rules per module) implemented and connected to Vocabulary, Listening, Speaking, and Forum modules; US-55 now unblocked and coin reward for Wordle integrated; no blockers.
+
+Wed, Apr 2
+US-57 (Speed-based coin reward for Listening) implemented with timer logic; Epic 19 Coins & Rewards system fully completed and tested; US-59 (Create/join study group) and US-61 (Group daily/weekly tasks) development started; blocker: real-time group task progress sync causing performance issues on lower-end devices, under investigation.
+
+Thu, Apr 3
+Performance issue partially mitigated by switching to polling instead of real-time sync; US-59 and US-61 completed; US-62 (Personal leaderboard) and US-65 (Calendar study planning) implemented; US-60 (Recruit group members via forum) deprioritised and moved back to Backlog due to time constraints; no further blockers.
+
+Fri, Apr 4
+US-66 (Mark calendar tasks + earn rewards) and US-67 (Group chat) completed; US-63 (Group leaderboard) and US-64 (Wordle leaderboard) scoped but moved to Backlog as remaining sprint time insufficient for proper testing; began initial code review pass on Epic 17–19; no blockers.
+
+📅 Week 6: Sprint 4
+Mon, Apr 7
+US-68 (Private messaging between users) completed and tested; US-69 (Escape Room mini-game) development attempted but core task integration proved too complex within remaining sprint time — moved to Backlog; code review conducted on Epic 20 (Group System) and Epic 22 (Calendar); several minor logic issues identified and flagged for fixing.
+
+Tue, Apr 8
+Code review completed for Epic 21 (Leaderboard) and Epic 23 (Chat); bug fixes applied across group task sync, calendar reward trigger, and coin deduction edge cases; US-62 personal leaderboard refined based on review feedback; no blockers.
+
+Wed, Apr 9
+Final Sprint 2 standup — full code review pass completed across all delivered Epics (17–23); US-60, US-63, US-64, and US-69 confirmed as moved to Backlog; all remaining delivered User Stories verified as done and codebase prepared for Sprint 2 submission; no blockers.
+
+
