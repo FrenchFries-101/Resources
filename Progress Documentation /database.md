@@ -42,3 +42,5 @@ zxN8TNNP4Ghf4Ksb
 2026/03/27	Import database to remote server. Execute SQL script on server; configure foreign keys and cascade rules
 
 2026/03/30  Add tables to support the group function.
+
+2026/04/03  Add pets data and update the gif data to the server saved to be URL.
