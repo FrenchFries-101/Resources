@@ -1,20 +1,41 @@
-In this repository, you would have a quick understanding of what we have done for each sprint and the feedback of each sprint:
-Sprint 1
-Sprint planning: The goal is to make an English learning APP for new students to use. We plan to develop English word Lists, speaking training part, listening training part and a forum.
-Sprint Review: Feedback from prof.Kaveh: Good but listening part is too general -- should help them adapt the accents of different countries.
+In this repository, you would have a quick understanding of what we plan to do in the beginning of each sprint(Monday by sprint retrospective and sprint planning) and the feedback of each sprint(On Friday by presentation to prof. Kaveh or during the week by presentation to clients):
 
-Sprint 
-Sprint Planning: The goal is to polish and fix bugs. Givem that clients come on Tuesday, so we don't plan to do any new features in this short sprint (2 days)
-Sprint Review: Feedback from cliens: Good but pay attention to the copyright of materials. In addition, more interactive content should be presented to engage students in English learning journey.
+Sprint 1:
+Sprint planning
+The goal is to make an English learning APP for new students to use. We plan to develop English word Lists, speaking training part, listening training part and a forum.
 
-Sprint 3
-Sprint Planning: The goal is to solve the problems left in sprint 1&2. So we manage to add more copyright content and add ted speech as part of listening material.
+Sprint Review
+Working Increment: Delivered a functional prototype covering user login, vocabulary word list, speaking training, listening module, and student forum.
+Demo Evidence: face to face walkthrough demo presentation presented to Prof. Kaveh covering the full user journey from registration through all modules on a physical device.
+Feedback Captured: Prof. Kaveh gave positive feedback but noted the listening module was too general and should expose students to accents from different English-speaking countries.
+
+Sprint 2:
+Sprint Planning & Retrospective
+The goal is to polish and fix bugs. Givem that clients come on Tuesday, so we don't plan to do any new features in this short sprint (2 days)
+
+Sprint Review
+Working Increment: Delivered a stabilised, bug-fixed version of the Sprint 1 build with no new features, prepared ahead of the client visit.
+Demo Evidence: face to face demo presented to the client on Tuesday demonstrating the fully working and polished Sprint 1 feature set.
+Feedback Captured: Client responded positively but flagged two concerns: copyright compliance of materials, and the need for more interactive content to better engage students.
+
+Sprint 3:
+Sprint Planning & Retrospective
+The goal is to solve the problems left in sprint 1&2. So we manage to add more copyright content and add ted speech as part of listening material.
 In addition, more interactive content will be presented for example: A computer game for learning English vocabulary, a group discussion functionalities, ranking lists and pet adoption system. 
-Sprint Review: Feedback from prof.Kaveh: Good, but there two four points that need further consideration. First, the life element of DIICSU could be more. Second, the implementation of word games, especially the time limitaion, need further improvement. 
+
+Sprint Review
+Working Increment: Delivered copyright-compliant content, TED Talk listening materials, a Wordle vocabulary game, group discussion, leaderboards, a coin reward system, and a virtual pet system.
+Demo Evidence: face to face demo presented to Prof. Kaveh showcasing TED Talk listening exercises, the Wordle mini-game, leaderboard rankings, and the pet progression system.
+Feedback Captured: Prof. Kaveh gave positive feedback but highlighted that DIICSU-specific life elements could be richer, and the word game's time limitation mechanic needs further improvement.
 
 Sprint 4
-Sprint Planning: The goal is to solve the bugs and unfinished part left in sprint 3. So we plan to do multiple code reviews within the parts we responsible for separately. No more new functionalities added in this sprint. 
-Sprint Review: Client Comes and give us the final feedback. Our project ends here.
+Sprint Planning
+The goal is to solve the bugs and unfinished part left in sprint 3. So we plan to do multiple code reviews within the parts we responsible for separately. No more new functionalities added in this sprint. 
+
+Sprint Review
+WWorking Increment: Delivered the finalised build with all Sprint 3 issues resolved through thorough code reviews across each team member's modules, with no new features added.
+Demo Evidence: Final face to face demo presented to the client covering all delivered Epics across the full project lifecycle.
+Feedback Captured: Client provided final closing feedback and the project was officially concluded. 
 
 For more information about the selected stories and plans for each sprint, please visit the Kanban part.
 For more information about the daily stand-up meeting, please visit the stand-up meeting documentation.
